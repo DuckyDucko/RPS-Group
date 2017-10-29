@@ -3,8 +3,6 @@ import time
 import sys
 from random import randint
 
-#sup
-
 print('Rock Paper Scissors by Ducky and Vinex', '\t')
 print('Beta 1.0.2')
 print("\t")
