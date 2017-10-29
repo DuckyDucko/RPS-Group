@@ -2,6 +2,8 @@ import time
 import sys
 from random import randint
 
+#WHAT IS UP MY DUDES! AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH!!!
+
 print('Rock Paper Scissors by Ducky and Vinex', '\t')
 print('Beta 1.0.2')
 print("\t")
